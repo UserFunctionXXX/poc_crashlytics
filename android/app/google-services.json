@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985036869660",
+    "project_id": "poc-crashlytics-c1010",
+    "storage_bucket": "poc-crashlytics-c1010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985036869660:android:25b529fdc940ec14d28fd9",
+        "android_client_info": {
+          "package_name": "br.com.poc_crashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985036869660-39u50bud8v1se4go28p4cgb5q3g5jv9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmxXgJp_1EdQh8bemm1uEoVEjDSgXYnw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985036869660-39u50bud8v1se4go28p4cgb5q3g5jv9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
