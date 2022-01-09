@@ -1,3 +1,7 @@
 {
-    "totvsLanguageServer.welcomePage": false
+    "totvsLanguageServer.welcomePage": false,
+    "workbench.colorCustomizations": {
+        "tab.activeBackground" : "#038103" ,
+        "tab.activeForeground" : "#fdfdfd" 
+    }
 }
